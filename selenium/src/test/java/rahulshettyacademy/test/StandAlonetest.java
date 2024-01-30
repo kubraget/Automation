@@ -19,6 +19,7 @@ public class StandAlonetest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String name = "ADIDAS ORIGINAL";
+		System.out.println(name);
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
