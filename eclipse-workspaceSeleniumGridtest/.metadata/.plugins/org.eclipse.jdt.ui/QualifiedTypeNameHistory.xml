@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.openqa.selenium.remote.CapabilityType"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.devtools.DevTools"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.Keys"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.devtools.v118.fetch.model.AuthChallengeResponse.Response"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.devtools.v85.network.model.Response"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.devtools.v119.network.model.Response"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.devtools.v119.network.model.Request"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.devtools.v119.fetch.Fetch"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.devtools.v119.network.model.ErrorReason"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.devtools.v118.fetch.model.RequestPattern"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.devtools.v119.fetch.model.RequestPattern"/>
+    <fullyQualifiedTypeName name="com.google.common.collect.ImmutableList"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.devtools.v118.network.model.ConnectionType"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.devtools.v119.network.Network"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.devtools.v119.network.model.ConnectionType"/>
+    <fullyQualifiedTypeName name="io.opentelemetry.exporter.logging.SystemOutLogRecordExporter"/>
+    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.UsernameAndPassword"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.logging.LogType"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.bidi.log.LogEntry"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.logging.LogEntry"/>
+    <fullyQualifiedTypeName name="com.google.common.base.Optional"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.devtools.v119.emulation.Emulation"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.devtools.v85.emulation.Emulation"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="io.github.bonigarcia.wdm.WebDriverManager"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+    <fullyQualifiedTypeName name="java.lang.Runtime"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.support.ui.WebDriverWait"/>
+    <fullyQualifiedTypeName name="java.time.Duration"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.support.ui.ExpectedConditions"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="dev.failsafe.internal.util.Assert"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+    <fullyQualifiedTypeName name="java.net.URL"/>
+    <fullyQualifiedTypeName name="org.testng.Assert"/>
+</qualifiedTypeNameHistroy>

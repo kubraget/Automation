@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-29T18:08:32 IST" name="Suite" finished-at="2024-01-29T18:08:58 IST" duration-ms="26219">
+    <groups>
+    </groups>
+    <test started-at="2024-01-29T18:08:32 IST" name="Test-1" finished-at="2024-01-29T18:08:41 IST" duration-ms="9199">
+      <class name="rahulshettyacademyBrowserStack.BrowserStacktestdemo2">
+        <test-method signature="titleCheck()[pri:0, instance:rahulshettyacademyBrowserStack.BrowserStacktestdemo2@5bca7664]" started-at="2024-01-29T18:08:32 IST" name="titleCheck" finished-at="2024-01-29T18:08:41 IST" duration-ms="9045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheck -->
+      </class> <!-- rahulshettyacademyBrowserStack.BrowserStacktestdemo2 -->
+    </test> <!-- Test-1 -->
+    <test started-at="2024-01-29T18:08:32 IST" name="Test-0" finished-at="2024-01-29T18:08:45 IST" duration-ms="12559">
+      <class name="rahulshettyacademyBrowserStack.BrowserStacktestdemo2">
+        <test-method signature="titleCheck()[pri:0, instance:rahulshettyacademyBrowserStack.BrowserStacktestdemo2@4dafba3e]" started-at="2024-01-29T18:08:32 IST" name="titleCheck" finished-at="2024-01-29T18:08:43 IST" duration-ms="11229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheck -->
+      </class> <!-- rahulshettyacademyBrowserStack.BrowserStacktestdemo2 -->
+    </test> <!-- Test-0 -->
+    <test started-at="2024-01-29T18:08:47 IST" name="TestGoogle-1" finished-at="2024-01-29T18:08:57 IST" duration-ms="9763">
+      <class name="rahulshettyacademyBrowserStack.BrowserStacktestdemo">
+        <test-method signature="titleCheckgoogle()[pri:0, instance:rahulshettyacademyBrowserStack.BrowserStacktestdemo@78830d9a]" started-at="2024-01-29T18:08:47 IST" name="titleCheckgoogle" finished-at="2024-01-29T18:08:57 IST" duration-ms="9687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheckgoogle -->
+      </class> <!-- rahulshettyacademyBrowserStack.BrowserStacktestdemo -->
+    </test> <!-- TestGoogle-1 -->
+    <test started-at="2024-01-29T18:08:44 IST" name="TestGoogle-0" finished-at="2024-01-29T18:08:58 IST" duration-ms="13851">
+      <class name="rahulshettyacademyBrowserStack.BrowserStacktestdemo">
+        <test-method signature="titleCheckgoogle()[pri:0, instance:rahulshettyacademyBrowserStack.BrowserStacktestdemo@42fcc7e6]" started-at="2024-01-29T18:08:44 IST" name="titleCheckgoogle" finished-at="2024-01-29T18:08:57 IST" duration-ms="12687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheckgoogle -->
+      </class> <!-- rahulshettyacademyBrowserStack.BrowserStacktestdemo -->
+    </test> <!-- TestGoogle-0 -->
+  </suite> <!-- Suite -->
+</testng-results>
