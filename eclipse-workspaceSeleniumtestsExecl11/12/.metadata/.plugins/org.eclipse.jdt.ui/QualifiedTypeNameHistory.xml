@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.Cell"/>
+    <fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.CellType"/>
+    <fullyQualifiedTypeName name="org.apache.poi.ss.util.NumberToTextConverter"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+    <fullyQualifiedTypeName name="java.net.URL"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.remote.CapabilityType"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.devtools.v85.emulation.Emulation"/>
+    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.devtools.v85.network.Network"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.devtools.v118.network.model.ConnectionType"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.devtools.v118.network.Network"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.devtools.v118.network.model.Request"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.devtools.v119.network.model.Request"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.devtools.v119.network.model.Response"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="com.google.common.base.Optional"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.devtools.v118.fetch.model.RequestPattern"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.devtools.v119.fetch.Fetch"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.devtools.v119.fetch.model.RequestPattern"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.devtools.v119.network.model.ErrorReason"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.devtools.v119.network.Network"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="com.google.common.collect.ImmutableList"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.logging.LogType"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.devtools.v119.log.model.LogEntry"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.logging.LogEntry"/>
+</qualifiedTypeNameHistroy>

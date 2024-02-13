@@ -1,0 +1,11 @@
+
+public class Googletest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		DesiredCapabilities cap = new DesiredCapabilities();
+		WebDriver driver = new RemoteDriver();
+
+	}
+
+}
