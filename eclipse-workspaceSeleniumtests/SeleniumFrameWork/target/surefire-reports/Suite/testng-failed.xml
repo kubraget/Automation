@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="rahulshettyacademy.testComponent.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Submit  3 error Test(failed)" verbose="0">
+    <classes>
+      <class name="rahulshettyacademy.test.SubmitErrorReport">
+        <methods>
+          <include name="SubmitPage"/>
+          <include name="Launch"/>
+          <include name="submit"/>
+          <include name="tearDown"/>
+          <include name="loggingError"/>
+        </methods>
+      </class> <!-- rahulshettyacademy.test.SubmitErrorReport -->
+    </classes>
+  </test> <!-- Submit  3 error Test(failed) -->
+  <test thread-count="5" name="Data 2 Test(failed)" verbose="0">
+    <classes>
+      <class name="rahulshettyacademy.test.dataProvider">
+        <methods>
+          <include name="submit"/>
+          <include name="Launch"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- rahulshettyacademy.test.dataProvider -->
+    </classes>
+  </test> <!-- Data 2 Test(failed) -->
+  <test thread-count="5" name="Hash 2 Test(failed)" verbose="0">
+    <classes>
+      <class name="rahulshettyacademy.test.Hash">
+        <methods>
+          <include name="submit"/>
+          <include name="Launch"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- rahulshettyacademy.test.Hash -->
+    </classes>
+  </test> <!-- Hash 2 Test(failed) -->
+  <test thread-count="5" name="Submit 2 Test(failed)" verbose="0">
+    <classes>
+      <class name="rahulshettyacademy.test.SubmitOrder">
+        <methods>
+          <include name="submit"/>
+          <include name="SubmitPage"/>
+          <include name="Launch"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- rahulshettyacademy.test.SubmitOrder -->
+    </classes>
+  </test> <!-- Submit 2 Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

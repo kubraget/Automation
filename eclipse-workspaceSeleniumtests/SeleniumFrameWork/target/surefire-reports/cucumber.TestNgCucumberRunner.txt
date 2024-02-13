@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: cucumber.TestNgCucumberRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.888 s <<< FAILURE! -- in cucumber.TestNgCucumberRunner
+cucumber.TestNgCucumberRunner.runScenario["Title of your scenario outline", "Error validation"](1) -- Time elapsed: 0.089 s <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.manage()" because "this.driver" is null
+	at rahulshettyacademy.testComponent.BaseTest.Initializer(BaseTest.java:60)
+	at rahulshettyacademy.testComponent.BaseTest.Launch(BaseTest.java:87)
+	at rahulshettyacademy.StepDefination.StepDefinationImpl.I_landed_on_Ecommerce_Page(StepDefinationImpl.java:28)
+	at ✽.I landed on Ecommerce Page(file:///C:/Users/kanee/eclipse-workspaceSeleniumtests/SeleniumFrameWork/src/test/java/cucumber/ErrorValidation.feature:9)
+
